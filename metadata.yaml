@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2662
     wikipedia: http://en.wikipedia.org/wiki/Robert_G._Ingersoll
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34417#Walt-WhitmanAn-Address
 gutenberg_issued: '2011-09-24'
 gutenberg_type: Text
 identifiers:
